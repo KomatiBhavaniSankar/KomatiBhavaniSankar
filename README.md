@@ -1,5 +1,4 @@
 
----
 
 # 💫 About Me
 👋 **Hello!** I’m **Bhavani Shankar Komati**—a passionate developer with a strong interest in **Web Development**, **Machine Learning**, and **Artificial Intelligence**.
