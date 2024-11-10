@@ -7,7 +7,7 @@ I love creating impactful projects, competing in hackathons, and constantly expa
 
 ## 🏆 Hackathon Achievements
 - **Megathon, IIIT Hyderabad**: Top 4 – Developed a natural disaster prediction model using satellite data.
-- **Smart India Hackathon**: Shortlisted at internal rounds, MRCET
+- **Smart India Hackathon**: Shortlisted at internal rounds, MRCET.
 - **FOSS Hack 2024**: Shortlisted at localhost, GITAM University
 - **Malla Reddy University Hackathon**: Created a medical chatbot for triage with PHP and MySQL.
 
