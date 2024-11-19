@@ -9,7 +9,7 @@ I love creating impactful projects, competing in hackathons, and constantly expa
 - **Megathon, IIIT Hyderabad**: Top 4 – Developed a natural disaster prediction model using satellite data.
 - **Smart India Hackathon**: Shortlisted at internal rounds, MRCET.
 - **FOSS Hack 2024**: Shortlisted at localhost, GITAM University.
-- **Malla Reddy University Hackathon**: Created a medical chatbot for triage with PHP and MySQL.
+- **Malla Reddy University Hackathon**: Created a medical chatbot for triage with PHP and MySQL .
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhavani-sankar-komati) 
