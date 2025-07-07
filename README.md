@@ -55,6 +55,9 @@ Currently, I'm actively exploring opportunities to collaborate, contribute, and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KomatiBhavaniSankar&theme=blue_navy&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 ---
+
+
 
 [![](https://visitcount.itsvg.in/api?id=KomatiBhavaniSankar&icon=0&color=0)](https://visitcount.itsvg.in)
