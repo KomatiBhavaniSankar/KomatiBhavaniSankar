@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Bhavani Shankar Komati**, a passionate and driven developer with strong interests in **Web Development**, **Machine Learning**, and **Artificial Intelligence**.
 
-I love building impactful projects, exploring new technologies, and competing in hackathons. I'm always eager to collaborate, contribute, and **participate in exciting tech challenges**!
+I enjoy building impactful projects, exploring new technologies, and competing in hackathons. I’m always eager to collaborate, contribute, and **participate in exciting tech challenges**.
 
 ---
 
@@ -11,11 +11,17 @@ I love building impactful projects, exploring new technologies, and competing in
 - 🌀 **Megathon, IIIT Hyderabad** – *Top 4 Finalist*  
   Developed a natural disaster prediction system using satellite imagery and machine learning.
 
-- 🇮🇳 **Smart India Hackathon (SIH)** – *Shortlisted in Internal Round @ MRCET*  
-  Contributed innovative solutions to real-world problem statements at the national level.
+- 🇮🇳 **Smart India Hackathon (SIH)** – *Finalist in Internal Round @ MRCET*  
+  Contributed innovative solutions to real-world national-level problem statements.
 
-- 🐧 **FOSS Hack 2024** – *Shortlisted @ localhost, GITAM University*  
-  Designed and built an open-source project with practical use cases.
+- 🐧 **FOSS Hack 2024** – *Finalist @ localhost, GITAM University*  
+  Designed and built a practical open-source project with real-world utility.
+
+- 🎯 **MRCET Hackathon** – *Winner*  
+  Secured 1st place for developing a high-impact technical solution.
+
+- 🏛️ **Woxsen University Hackathon** – *Finalist*  
+  Participated in a national-level hackathon focused on innovation and real-world problem-solving.
 
 ---
 
@@ -38,7 +44,7 @@ I love building impactful projects, exploring new technologies, and competing in
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Science  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,8 +59,8 @@ I love building impactful projects, exploring new technologies, and competing in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KomatiBhavaniSankar&theme=blue_navy&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KomatiBhavaniSankar&theme=blue_navy&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
