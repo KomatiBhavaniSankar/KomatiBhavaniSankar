@@ -17,10 +17,8 @@ I love building impactful projects, exploring new technologies, and competing in
 - 🐧 **FOSS Hack 2024** – *Finalist @ localhost, GITAM University*  
   Designed and built a practical open-source project with real-world utility.
 
-- 🎯 **MRCET Hackathon** – *Winner*  
-  Secured 1st place for developing a high-impact technical solution.
 
-- 🏛️ **Woxsen University Hackathon** – *Finalist*  
+- 🏛️ **Woxsen University Hackathon**   
   Participated in a national-level hackathon focused on innovation and real-world problem-solving.
 
 ---
