@@ -78,7 +78,6 @@ I love building impactful projects, exploring new technologies, and competing in
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KomatiBhavaniSankar&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)  
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=KomatiBhavaniSankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
