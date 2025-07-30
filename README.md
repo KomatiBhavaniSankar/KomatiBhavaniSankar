@@ -6,6 +6,13 @@ I love building impactful projects, exploring new technologies, and competing in
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavani-sankar-komati)  
+📬 *Always open to new opportunities, collaborations, and tech talks!*
+
+---
+
 ## 🏆 Hackathon Highlights
 
 - 🌀 **Megathon, IIIT Hyderabad** – *Top 4 Finalist*  
@@ -81,14 +88,7 @@ I love building impactful projects, exploring new technologies, and competing in
 
 </div>
 
----
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavani-sankar-komati)  
-📬 *Always open to new opportunities, collaborations, and tech talks!*
-
----
 
 <div align="center">
 
