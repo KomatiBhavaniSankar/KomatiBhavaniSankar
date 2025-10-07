@@ -72,7 +72,6 @@ I love building impactful projects, exploring new technologies, and competing in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=KomatiBhavaniSankar&theme=blue_navy&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomatiBhavaniSankar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
