@@ -1,3 +1,5 @@
+[![An image of @komatibhavanisankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komatibhavanisankar)](https://holopin.io/@komatibhavanisankar)
+
 # 💫 About Me
 
 👋 Hi there! I'm **Bhavani Shankar Komati**, a passionate and driven developer with strong interests in **Web Development**, **Machine Learning**, and **Artificial Intelligence**. 
@@ -23,7 +25,6 @@ I love building impactful projects, exploring new technologies, and competing in
 
 - 🐧 **FOSS Hack 2024** – *Finalist @ localhost, GITAM University*  
   Designed and built a practical open-source project with real-world utility.
-
 
 - 🏛️ **Woxsen University Hackathon**   
   Participated in a national-level hackathon focused on innovation and real-world problem-solving.
@@ -87,8 +88,6 @@ I love building impactful projects, exploring new technologies, and competing in
 
 </div>
 
-
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />  
@@ -98,5 +97,3 @@ I love building impactful projects, exploring new technologies, and competing in
 </div>
 
 ---
-
-
