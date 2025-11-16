@@ -19,9 +19,6 @@ I love building impactful projects, exploring new technologies, and competing in
 - 🌀 **Megathon, IIIT Hyderabad** – *Top 4 Finalist*  
   Developed a natural disaster prediction system using satellite imagery and machine learning.
 
-- 🇮🇳 **Smart India Hackathon (SIH)** – *Finalist in Internal Round @ MRCET*  
-  Contributed innovative solutions to real-world national-level problem statements.
-
 - 🐧 **FOSS Hack 2024** – *Finalist @ localhost, GITAM University*  
   Designed and built a practical open-source project with real-world utility.
 
