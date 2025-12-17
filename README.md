@@ -1,5 +1,5 @@
 [![An image of @komatibhavanisankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komatibhavanisankar)](https://holopin.io/@komatibhavanisankar)
-# 💫 About Me
+#  About Me
 
 👋 Hi there! I'm **Bhavani Shankar Komati**, a passionate and driven developer with strong interests in **Web Development**, **Machine Learning**, and **Artificial Intelligence**. 
 
