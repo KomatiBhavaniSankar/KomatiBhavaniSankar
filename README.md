@@ -1,22 +1,37 @@
-[![An image of @komatibhavanisankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komatibhavanisankar)](https://holopin.io/@komatibhavanisankar)
-# 💫 About Me:
-Hi there! I'm Bhavani Shankar Komati, a passionate and driven developer with strong interests in Web Development, Machine Learning, and Artificial Intelligence.<br><br>I love building impactful projects, exploring new technologies, and competing in hackathons. I'm always eager to collaborate, contribute, and participate in exciting tech challenges.<br><br>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Komati Bhavani Sankar</h1>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=KomatiBhavaniSankar">
+    <img src="https://komarev.com/ghpvc/?username=KomatiBhavaniSankar&label=Profile%20views&color=00FFFF&style=flat-square" alt="KomatiBhavaniSankar's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- A passionate and driven developer with strong interests in Web Development, Machine Learning, and Artificial Intelligence.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavani-sankar-komati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanisankarkomati@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KomatiBhavaniSankar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KomatiBhavaniSankar&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KomatiBhavaniSankar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/KomatiBhavaniSankar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KomatiBhavaniSankar&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KomatiBhavaniSankar's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=KomatiBhavaniSankar&theme=dark&hide_border=true&cache_seconds=86400" alt="KomatiBhavaniSankar's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=KomatiBhavaniSankar&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Komati Bhavani Sankar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KomatiBhavaniSankar&theme=dark&radius=10" alt="KomatiBhavaniSankar's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KomatiBhavaniSankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KomatiBhavaniSankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/bhavani-sankar-komati/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's LinkedIn"/></a> <a href="mailto:bhavanisankarkomati@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's Email"/></a></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=KomatiBhavaniSankar&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
